@@ -4,4 +4,4 @@ Introduction and Setup, <br>
 Driver Setup, <br>
 User-Facing Backend,<br>
 Admin Backend, <br>
-esiliency
+Resiliency
